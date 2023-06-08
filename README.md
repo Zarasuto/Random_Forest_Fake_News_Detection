@@ -22,4 +22,5 @@ How to use the Fake News Prototype:
 
 This is an example of the prototype:
 ![image](https://github.com/Zarasuto/Random_Forest_Fake_News_Detection/assets/35593211/504e6edb-1d00-4db3-9a69-8dec7e155ba8)
+
 The three columns below the panel,  "Fake", "Genuine", "Selected File" can be used as a reference on why the AI has selected its decision
